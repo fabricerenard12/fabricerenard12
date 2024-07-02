@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**fabricerenard12/fabricerenard12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm Fabrice, a passionate software engineering student with expertise in several programming languages and technologies. I enjoy tackling challenging problems and building elegant solutions that make a positive impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+## Projects
+- [List any notable projects you've worked on or contributed to]
+- [Provide links to repositories or demo pages]
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/fabrice-renard-94b366204/)
+- [Email](mailto:your.email@example.com)
+- [Portfolio](https://github.com/fabricerenard12)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+
