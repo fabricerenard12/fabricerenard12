@@ -16,7 +16,7 @@ I'm Fabrice, a passionate software engineering student with expertise in several
 
 - [2048 Solver](https://github.com/fabricerenard12/2048-Solver-but-better)
 - [Memory](https://github.com/fabricerenard12/memory)
-- [Injector](https://github.com/fabricerenard12/injector)
+- [DLL-Injector](https://github.com/fabricerenard12/injector)
 - [CHIP-8 Emulator](https://github.com/fabricerenard12/chip8-emu)
 - [E-Portfolio](https://github.com/fabricerenard12/eportfolio)
 - [Solana-Ruby](https://github.com/fabricerenard12/solana-ruby)
